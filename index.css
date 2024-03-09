@@ -1,0 +1,202 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    background-color: antiquewhite;
+}
+.logo{
+    width: 100px;
+    /* outline: 2px solid red; */
+}
+.logo img{
+    width: 100%;
+
+}
+.logos{
+    width: 100px;
+    /* outline: 2px solid red; */
+}
+.logos img{
+    width: 100%;
+
+}
+header{
+    background-color: black;
+}
+.nav-link{
+    color: white !important;
+}
+button.navbar-toggler{
+    color: red !important;
+    
+
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml,%3csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"%3e%3cpath stroke="rgba(255, 255, 255, 0.55)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"/%3e%3c/svg%3e');
+}
+.btn-outline-success {
+    border-color: red;
+    color: yellow;
+}
+.hero-page{
+    width: 90%;
+    margin: auto;
+  
+}
+.text{
+    width: 90%;
+    margin: auto;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+
+}
+ .text h4{
+    width: 100%;
+    margin-top: 2rem;
+    font-size: 16px;
+    color: white;
+    background-color: #ef900a;
+    padding: 20px;
+    border-radius: 10px 50px 25px 15px;
+    text-align: center;
+    font-family: "Rubik";
+    
+}
+.text h1{
+    margin-top: 1rem;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: "Rubik";
+
+
+}
+.photo{
+    width: 80%;
+    margin: auto;
+ 
+  
+ 
+    
+    
+}
+.photo img{
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 2rem;
+
+}
+.finy{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 1rem;
+    
+}
+.finy img{
+    width: 100%;
+    border-radius: 20px;
+
+}
+.join{
+    margin: auto;
+    display: flex;
+    background-color: white;
+    color: red;
+    margin-top: 2rem;
+    border: 0;
+    padding: 10px 25px 10px 25px;
+    border-radius: 5px;
+    font-family: "Rubik";
+
+}
+a{
+    text-decoration: none;
+}
+.register h3{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 2rem;
+    font-family: "Rubik";
+    background-color: #ef900a;
+    border-radius: 50px 10px 50px 10px;
+    padding: 20px;
+    color: white;
+}
+.win{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 2rem;
+    font-family: "Rubik";
+    background-color: #fff;
+    border-radius: 50px 10px 50px 10px;
+    padding: 20px;
+    color: #ef900a;
+}
+.cardi{
+    text-align: center;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 50px 10px 50px 10px;
+}
+.register p{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 2rem;
+    font-family: "Rubik";
+    background-color: white;
+    border-radius: 50px 10px 50px 10px;
+    padding: 20px;
+    color: rgb(158, 53, 53);
+}
+.about{
+    text-align: center;
+}
+
+.highlights{
+    margin-top: 1rem;
+}
+footer{
+    background-color: black;
+    padding: 2rem;
+    margin-top: 5rem;
+}
+footer a{
+    color: white;
+    font-family: "Rubik";
+}
+footer li{
+    list-style: none;
+}
+footer h4{
+    color: #fff;
+    margin-top: 1rem;
+    font-family: "Rubik";
+}
+footer p{
+    color: #fff;
+    font-family: "Rubik";
+}
+.socials{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
