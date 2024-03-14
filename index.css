@@ -228,6 +228,7 @@ a{
 }
 .about{
     text-align: center;
+    /* margin-top: 2rem; */
 }
 
 .highlights{
@@ -311,4 +312,20 @@ textarea {
   background-color: black;
   color: white;
 
+}
+/* STYLING FOR ABOUT US */
+.abouti{
+    margin-top: 2rem;
+    text-align: center;
+    font-family: "Rubik";
+    font-weight: 600;
+}
+.discover{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    padding: 10px;
+    font-family: "Rubik";
 }
