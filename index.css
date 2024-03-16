@@ -280,6 +280,37 @@ h1 {
     margin-top: 2rem;
     text-align: center;
 }
+.top {
+    /* list-style: none; */
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50%;
+    /* outline: 2px solid red; */
+    width: 40%;
+    height: 7vh;
+    align-items: center;
+   
+}
+.mop{
+    background-color: red;
+
+}
+.fa-facebook {
+    color: white;
+   
+}
+.fa-square-twitter{
+    color: #fff;
+}
+.fa-instagram{
+    color: #fff;
+}
+.fa-square-youtube{
+    color: #fff;
+}
+.top li{
+    list-style: none;
+}
 
 .form-group {
   margin-bottom: 20px;
