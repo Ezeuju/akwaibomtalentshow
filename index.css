@@ -289,6 +289,7 @@ h1 {
     width: 40%;
     height: 7vh;
     align-items: center;
+    outline: 2px solid white;
    
 }
 .mop{
@@ -359,4 +360,11 @@ textarea {
     margin-top: 2rem;
     padding: 10px;
     font-family: "Rubik";
+}
+
+.fa-envelope{
+    color: #fff;
+}
+.fa-envelope-circle-check{
+    color: #fff;
 }
