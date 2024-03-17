@@ -285,11 +285,11 @@ h1 {
     display: flex;
     justify-content: space-between;
     margin-left: 25%;
-    /* outline: 2px solid red; */
+
     width: 70%;
     height: 7vh;
     align-items: center;
-    /* outline: 2px solid white; */
+  
    
 }
 .mop{
